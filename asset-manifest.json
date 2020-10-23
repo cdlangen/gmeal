@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gmeal/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/gmeal/static/js/main.a20ae641.chunk.js",
+    "main.js.map": "/gmeal/static/js/main.a20ae641.chunk.js.map",
+    "runtime-main.js": "/gmeal/static/js/runtime-main.77a713cf.js",
+    "runtime-main.js.map": "/gmeal/static/js/runtime-main.77a713cf.js.map",
+    "static/js/2.ee3988d2.chunk.js": "/gmeal/static/js/2.ee3988d2.chunk.js",
+    "static/js/2.ee3988d2.chunk.js.map": "/gmeal/static/js/2.ee3988d2.chunk.js.map",
+    "static/js/3.8050795a.chunk.js": "/gmeal/static/js/3.8050795a.chunk.js",
+    "static/js/3.8050795a.chunk.js.map": "/gmeal/static/js/3.8050795a.chunk.js.map",
+    "index.html": "/gmeal/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/gmeal/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.ee3988d2.chunk.js.LICENSE.txt": "/gmeal/static/js/2.ee3988d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77a713cf.js",
+    "static/js/2.ee3988d2.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.a20ae641.chunk.js"
+  ]
+}

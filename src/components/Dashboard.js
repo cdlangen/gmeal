@@ -15,7 +15,7 @@ import Link from "@material-ui/core/Link";
 import MenuIcon from "@material-ui/icons/Menu";
 import ChevronLeftIcon from "@material-ui/icons/ChevronLeft";
 // import { mainListItems, secondaryListItems } from "./listItems";
-// import ShowAndTellList from "./ShowAndTell";
+import MealSchema from "./MealSchema";
 import Avatar from "@material-ui/core/Avatar";
 import Menu from "@material-ui/core/Menu";
 import MenuItem from "@material-ui/core/MenuItem";
@@ -158,11 +158,6 @@ export default function Dashboard() {
           >
             Gmeal: meal planner
           </Typography>
-          {/* <IconButton color="inherit">
-            <Badge badgeContent={4} color="secondary">
-              <NotificationsIcon />
-            </Badge>
-          </IconButton> */}
 
           <Avatar
             alt={
@@ -208,9 +203,9 @@ export default function Dashboard() {
       <main className={classes.content}>
         <div className={classes.appBarSpacer} />
         <Container maxWidth="lg" className={classes.container}>
-          {/* <Paper className={classes.paper}>
-            <ShowAndTellList />
-          </Paper> */}
+          <Paper className={classes.paper}>
+            <MealSchema />
+          </Paper>
         </Container>
       </main>
 
